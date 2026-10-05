@@ -22,7 +22,7 @@ export const about = [
 export const layers = [
   { label: "React", note: "Responsive interface for desktop and mobile" },
   { label: "Spring Boot", note: "REST APIs for products, users and cart" },
-  { label: "MySQL on Aiven", note: "Persistent application and user data" },
+  { label: "MySQL", note: "Persistent application and user data" },
 ];
 
 export const projects = [
