@@ -15,7 +15,7 @@ export const profile = {
 };
 
 export const about = [
-  "I am a Computer Science Engineering graduate (2026) with a strong interest in backend development. I work with Java, Spring Boot, React, REST APIs, MySQL, Firebase and Git.",
+  "I am a Computer Science Engineering graduate (2026) with a strong interest in Fullstack development. I work with Java, Spring Boot, React, REST APIs, MySQL, Firebase and Git.",
   "My projects cover e-commerce, document management with OCR, cloud data storage, authentication, dashboards and reminders. I am now strengthening my backend skills and learning AI technologies to build intelligent, scalable applications.",
 ];
 
